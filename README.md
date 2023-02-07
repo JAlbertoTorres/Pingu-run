@@ -29,7 +29,7 @@ or
 `conda create -n myenv`
 
 Here "myenv" is the name of your environment, so, as it is meant to be for pygame let's choose a better
-name for it, like "Pygame" or something like that, tha idea is that you can easily remember that name.
+name for it, like "Pygame" or something like that, the idea is that you can easily remember that name.
 
 With your pygame environment created, you can now install pygame. So, first enter to your environment, 
 again, you can do it from your GUI Anaconda navigator, or directly with the command line:
@@ -61,7 +61,7 @@ When you're there, run the next command line:
 
 `python runpenguin.py`
 
-And that´s all! That line will open a window and game will start!
+And that´s all! That line will open a window and the game will start!
 
 There's a variety of levels in the repository, if you want to try them all you may go to the Pingurun folder and open the file "configPenguin.py".
 In the 25th line of this file you should find the variable ' levelsP = "levelsFunc/"', you can change the value "levelsFunc" for any of the levels folders
