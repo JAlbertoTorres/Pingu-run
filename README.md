@@ -61,7 +61,7 @@ When you're there, run the next command line:
 
 `python runpenguin.py`
 
-And that all! That line will open a window and game will start!
+And that´s all! That line will open a window and game will start!
 
 There's a variety of levels in the repository, if you want to try them all you may go to the Pingurun folder and open the file "configPenguin.py".
 In the 25th line of this file you should find the variable ' levelsP = "levelsFunc/"', you can change the value "levelsFunc" for any of the levels folders
